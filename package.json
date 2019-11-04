@@ -1,0 +1,19 @@
+{
+  "name": "stuckjaredmaker",
+  "version": "1.0.0",
+  "description": "A game",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.jsd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erkus-circus/Super-Jared-Maker.git"
+  },
+  "author": "Eric Diskin & Avi Shere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erkus-circus/Super-Jared-Maker/issues"
+  },
+  "homepage": "https://github.com/erkus-circus/Super-Jared-Maker#readme"
+}
